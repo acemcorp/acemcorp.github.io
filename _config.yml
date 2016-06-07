@@ -1,6 +1,6 @@
 # Site settings
-title:
-email:
+title: ACEM corp
+email: acemcorp@acemcorp.com
 description: > # this means to ignore newlines until "baseurl:"
   Aquatic Consultancy for Engineering & Management.
 baseurl: "" # the subpath of your site, e.g. /blog/
